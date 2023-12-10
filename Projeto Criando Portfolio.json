@@ -1,0 +1,47 @@
+{
+  "name": "Gustavo Reis da Mata",
+  "photo": " ",
+  "job": "Motorista de Aplicativo",
+  "location": "São Paulo - SP",
+  "phone": "(17) 93927-5291",
+  "email": "gustavo.damataa@gmail.com",
+  "skills": {
+    "hardSkills": [
+      
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      }
+      
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    
+  ],
+  "portfolio": [
+    
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/gustavo-damata/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Motorista de App",
+      "period": "2019 - até o momento",
+      "description": "Trasporte de passageiros e atendimento ao cliente."
+    }
+  ]
+}
